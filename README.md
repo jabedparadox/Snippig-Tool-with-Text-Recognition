@@ -1,4 +1,4 @@
-# Snippig-Tool-with-Text-Recognition
+# Snipping-Tool-with-Text-Recognition
 Snipping tools with ocr supported
 
 
