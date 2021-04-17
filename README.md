@@ -3,7 +3,7 @@ Snipping tools with ocr supported
 
 
 ## How it works
-[![video](http://share.gifyoutube.com/.gif)](https://www.youtube.com/watch?v=)
+[![video](https://github.com/jabedparadox/Snipping-Tool-with-Text-Recognition/blob/main/snip.gif)](https://drive.google.com/file/d/1XHuolvyJQrRRe9rXFiLc_ZrxuUKok2fK/view)
 
 
 ## Operating System  
