@@ -15,15 +15,14 @@ Snipping tools with ocr supported
 ### Linux
 
  - Install/Update python, preferably latest version as of (Python 3.9.4)
- - Install 'tesseract' ('''sudo apt-get install tesseract-ocr''') and required dependency for tesseract.
- - Install 'Pyqt5' ('''pip install PyQt5''') assuming python & pip is installed.
- - Install 'pyscreenshot' ('''pip install pyscreenshot''') assuming python & pip is installed.
- - Install 'Pillow' ('''pip install Pillow''') assuming python & pip is installed.
+ - Install 'tesseract' (```sudo apt-get install tesseract-ocr```) and required dependency for tesseract.
+ - Install 'Pyqt5' (```pip install PyQt5```) assuming python & pip is installed.
+ - Install 'pyscreenshot' (```pip install pyscreenshot```) assuming python & pip is installed.
+ - Install 'Pillow' (```pip install Pillow```) assuming python & pip is installed.
  - Tesseract Language eg: for bengali language
    sudo apt-get install tesseract-ocr-language
-   eg:
-   '''sudo apt-get install tesseract-ocr-ben'''
-   '''sudo apt-get install tesseract-ocr-all'''
+   eg:```sudo apt-get install tesseract-ocr-ben```
+      ```sudo apt-get install tesseract-ocr-all ```
 
 ### Windows
 
