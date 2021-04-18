@@ -47,12 +47,17 @@ Snipping tools with ocr supported
 * Entire screen
 
 
+## For better text recognition performance from noisy image or colorod image etc, thresholding of an image [thresholding process is separating an image into       foreground values (black) and background values (white).] is good enough. By 'opencv-python' module in python this can be done. Installation
+  ```pip install opencv-python``` 
+ [Details thresholding](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_thresholding/py_thresholding.html)
+  
+
 ## Contributing
 
 * Fork the project.
 * [GitHub Issues](https://github.com/jabedparadox/Snipping-Tool-with-Text-Recognition/issues)
 * For any suggestion :
-  Facebook : [Md Jabed Ali](https://www.facebook.com/paradox.jabed)
+* Facebook : [Md Jabed Ali](https://www.facebook.com/paradox.jabed)
 
 
 # License
